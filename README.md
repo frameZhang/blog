@@ -1,3 +1,5 @@
 # My blogs
-这是自己的一个新的开始！
+## 越努力，越幸运！
+
+#### September
 2017/9/19 [或许明天就不一样了](https://github.com/frameZhang/blog/issues/1)
