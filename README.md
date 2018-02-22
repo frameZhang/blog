@@ -15,6 +15,6 @@
 
 ### February
 *不知细叶谁裁出，二月春风似剪刀。*
-* February 22, 2018 **»** [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
+* February 22, 2018 **»** [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/frameZhang/blog/issues/2)
 
 **只求码出自己的路，怀揣一颗赤子之心。**
