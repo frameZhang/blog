@@ -17,7 +17,7 @@
 
 ### March
 *楼头残梦五更钟，花底离愁三月雨。*
-* March 14, 2018 **>>** [iconfont私有管理平台YIcon的部署和使用](https://github.com/frameZhang/blog/issues/4)
+* March 14, 2018 **>>** [iconfont管理平台YIcon的部署和使用](https://github.com/frameZhang/blog/issues/4)
 
 ### February
 *不知细叶谁裁出，二月春风似剪刀。*
