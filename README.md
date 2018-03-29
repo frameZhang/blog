@@ -19,7 +19,7 @@
 *楼头残梦五更钟，花底离愁三月雨。*
 
 * March 14, 2018 **>>** [YIcon部署和介绍](https://github.com/frameZhang/blog/issues/4)
-* March 19, 2018 **>>** [JQ常用API介绍和详解](https://github.com/frameZhang/blog/issues/5)
+* March 19, 2018 **>>** [JQ常用API介绍](https://github.com/frameZhang/blog/issues/5)
 
 ### February
 *不知细叶谁裁出，二月春风似剪刀。*
