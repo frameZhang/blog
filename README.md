@@ -11,12 +11,11 @@
 
 
 ###October
-* October 22, 2018 **>>** [解决webstorm光标变成块状问题](https://github.com/frameZhang/blog/issues/6)
+* October 22, 2018 **>>** [解决webstorm光标变成块状问题](https://github.com/frameZhang/blog/issues/5)
 
 ### March
 
 * March 14, 2018 **>>** [YIcon部署和介绍](https://github.com/frameZhang/blog/issues/4)
-* March 19, 2018 **>>** [JQ常用API介绍](https://github.com/frameZhang/blog/issues/5)
 
 ### February
 * February 22, 2018 **>>** [css的继承，class的空格和不空格详解](https://github.com/frameZhang/blog/issues/2)
