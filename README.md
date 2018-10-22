@@ -1,12 +1,6 @@
 ## My blog
 
-> **博客签名：若批评无自由，则赞美无意义。**
-
 > **博客目的：分享，记录**
-
-> **博客宗旨：开放，自由，学习，进步**
-
-> **博客主人：Too young,too simple.Sometimes,naive.**
                
 > **博主座右铭：越努力，越幸运！**
 
@@ -15,15 +9,17 @@
 
 自己写的一些示例：[demos](https://github.com/frameZhang/demos)
 
+
+###October
+* October 22, 2018 **>>** [解决webstorm光标变成块状问题](https://github.com/frameZhang/blog/issues/6)
+
 ### March
-*楼头残梦五更钟，花底离愁三月雨。*
 
 * March 14, 2018 **>>** [YIcon部署和介绍](https://github.com/frameZhang/blog/issues/4)
 * March 19, 2018 **>>** [JQ常用API介绍](https://github.com/frameZhang/blog/issues/5)
 
 ### February
-*不知细叶谁裁出，二月春风似剪刀。*
 * February 22, 2018 **>>** [css的继承，class的空格和不空格详解](https://github.com/frameZhang/blog/issues/2)
 * February 28, 2018 **>>** [css的媒体查询的响应式开发](https://github.com/frameZhang/blog/issues/3)
 
-**只求码出自己的路，怀揣一颗赤子之心。**
+**Just Do it.**
